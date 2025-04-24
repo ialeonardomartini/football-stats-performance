@@ -1,0 +1,21 @@
+# Ambientes virtuais
+venv/
+.env
+
+# Caches e arquivos temporários
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+*.sqlite3
+
+# Banco local
+data/brasileirao.db
+
+# VSCode / sistema
+.vscode/
+.DS_Store
+
+# Arquivos do sistema
+Thumbs.db
