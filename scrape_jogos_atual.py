@@ -78,4 +78,4 @@ except Exception as e:
     print(f"❌ Erro ao acessar a temporada atual: {e}")
 
 db.close()
-print("\n✅ Temporada atual 2024 salva com sucesso.")
+print(f"\n✅ Temporada atual {temporada} salva com sucesso.")
